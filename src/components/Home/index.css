@@ -1,0 +1,11 @@
+/* Write your CSS code here */
+.home {
+  display: flex;
+  flex-direction: center;
+  font-family: 'Roboto';
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  padding: 10px;
+}
